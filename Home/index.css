@@ -60,6 +60,10 @@ h5 {
 .justify-content-center {
     justify-content: center;
 }
+
+.align-items-center {
+    align-items: center !important;
+}
 /* .m-auto {
     margin: auto !important;
 } */
@@ -1073,10 +1077,6 @@ ul#pills-tab {
 
 .counter-row {
     text-align: center;
-}
-
-.align-items-center {
-    align-items: center !important;
 }
 
 .counter-row .counter-number {
